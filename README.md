@@ -65,4 +65,4 @@ Create a vault Object using the below. `vaultSecretMap` in the below code will h
 
     val vaultSecretMap = vault.getSecret(s"/v1/kv/data/$kvPath")
     vaultSecretMap
-```
+```# azure-sastknprvdr
